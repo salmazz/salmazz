@@ -2,11 +2,8 @@
 ### Iam Salmaa 👋
 
 <img src="https://imgur.com/nhjMpir" align="right">
-<!--
-**salmazz/salmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
 
-- 🔭 I’m currently working on Big and Special Application Will you get love it  
+ - 🔭 I’m currently working on Big and Special Application Will you get love it  
 - 🌱 I’m currently learning Advanced PHP Laravel and more 
 - 👯 I’m looking to collaborate on Useful application to helpful the our community
 - 💬 Ask me about Web Development , Javascript ,PHP And Laravel 
