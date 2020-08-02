@@ -1,10 +1,9 @@
-# Hola !  😄 ### Iam Salmaa 👋
+# Hola 😄  Iam Salmaa 👋
 
 
 <img src="https://g.top4top.io/p_1675zr2pm1.jpg" align="right">
 
-
-### Iam a Software enginner
+ 
 
  - 🔭 I’m currently working on big and special application will you get love it  
 - 🌱 I’m currently learning Advanced PHP Laravel and more 
