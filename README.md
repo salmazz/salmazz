@@ -15,3 +15,9 @@
    and i love sports and i building up  a healthy athletic body 🌱 
 
 
+
+[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baselrabia&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=baselrabia )](https://github-readme-stats.vercel.app/api/top-langs/?username=baselrabia)
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Basel%20Rabia-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baselrabia/)
+![profile](https://gpvc.arturio.dev/baselrabia)](https://www.linkedin.com/in/baselrabia/)
