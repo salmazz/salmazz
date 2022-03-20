@@ -9,7 +9,7 @@
 - 🌱 learning Advanced PHP Laravel and more technologies  
 - 👯 I’m looking to collaborate on Useful application to helpful the our community
 - 💬 Ask me about Web Development , Javascript, Vuejs, PHP and PHP frameworks and more  
-- 📫 How to reach me: you can reach me on [https://www.salma-mehanny.com/](https://www.salma-mehanny.com/) 
+- 📫 How to reach me: you can reach me on [https://salma-mehanny.com](https://salma-mehanny.com) 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love writing and I will work on writing articles soon :blue_book:
    and i love sports and i building up  a healthy athletic body 🌱 
