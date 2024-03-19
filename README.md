@@ -18,4 +18,5 @@
 
 [ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmazz&layout=compact)
 ![github stats](https://github-readme-stats.vercel.app/api?username=salmazz )](https://github-readme-stats.vercel.app/api/top-langs/?username=salmazz)
- 
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=salmazz)](https://git.io/streak-stats)
