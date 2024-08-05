@@ -1,18 +1,21 @@
-# Hola! 😄  Iam Salmaa 👋
 
 
 <img src="https://g.top4top.io/p_1675zr2pm1.jpg" align="right">
 
- 
+### Salma (Salmazz)
+**Software Engineer | PHP & Laravel Enthusiast | Community Contributor**
 
- - 🔭 I’m currently working on big and special application will you get love it  
-- 🌱 learning Advanced PHP Laravel and more technologies  
-- 👯 I’m looking to collaborate on Useful application to helpful the our community
-- 💬 Ask me about Web Development , Javascript, Vuejs, Python , PHP and PHP frameworks and more  
+Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
+
+### Current Projects
+- **[Big and Special Application](link-to-repo)**: An innovative solution to [specific problem]. Contributions welcome!
+- **[Useful Application](link-to-repo)**: Helping our community manage [specific issue]. Join us in making a difference!
+
+### Fun Facts
+- I enjoy writing articles on my coding journey and sharing insights.
+- I'm a fitness enthusiast and believe in maintaining a healthy work-life balance.
+
 - 📫 How to reach me: you can reach me on [https://salma-mehanny.com](https://salma-mehanny.com) 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love writing and I will work on writing articles soon :blue_book:
-   and i love sports and i building up  a healthy athletic body 🌱 
 
 
 
