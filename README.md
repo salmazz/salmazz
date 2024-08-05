@@ -7,10 +7,6 @@
 
 Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
 
-### Current Projects
-- **[Big and Special Application](link-to-repo)**: An innovative solution to [specific problem]. Contributions welcome!
-- **[Useful Application](link-to-repo)**: Helping our community manage [specific issue]. Join us in making a difference!
-
 ### Fun Facts
 - I enjoy writing articles on my coding journey and sharing insights.
 - I'm a fitness enthusiast and believe in maintaining a healthy work-life balance.
